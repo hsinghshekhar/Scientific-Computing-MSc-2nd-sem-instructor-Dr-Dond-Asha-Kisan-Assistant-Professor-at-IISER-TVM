@@ -1,5 +1,7 @@
 # Scientific Computing | Instructor-Dr Dond Asha Kisan,Assistant Professor at IISER-TVM
 Apply standard techniques to analyse key properties of numerical algorithms, such as stability and convergence. Understand and analyse common pitfalls in numerical computing such as illconditioning and instability. Perform data analysis efficiently. Derive and analyse numerical methods for constrained and unconstrained optimisation problems
+
+
 Disclaimer-These are my personal notes and not official material from the institute. Main credit goes to Dr Dond Asha Kisan,Assistant Professor math, IISER-TVM.
 
 Syllabus-(1)Brief review of the sources of error and local analysis: Relative error, absolute error, and
