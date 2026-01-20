@@ -1,0 +1,2 @@
+# Scientific-Computing-MSc-2nd-sem-instructor-Dr-Dond-Asha-Kisan-Assistant-Professor-at-IISER-TVM
+Apply standard techniques to analyse key properties of numerical algorithms, such as stability and convergence. Understand and analyse common pitfalls in numerical computing such as illconditioning and instability. Perform data analysis efficiently. Derive and analyse numerical methods for constrained and unconstrained optimisation problems
